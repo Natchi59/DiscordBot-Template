@@ -1,0 +1,10 @@
+{
+  "name": "discordbot-template-ts",
+  "version": "1.0.0",
+  "description": "Template de Bot Discord en Typescript",
+  "main": "index.ts",
+  "repository": "https://github.com/Natchi59/DiscordBot-Template.git",
+  "author": "Natchi <nathan.caron@natchi.fr>",
+  "license": "MIT",
+  "private": false
+}
