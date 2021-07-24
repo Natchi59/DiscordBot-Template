@@ -29,3 +29,5 @@ Via Yarn
 ```
 yarn install
 ```
+
+Puis une fois installé, il vous suffit de renommer le fichier `example.config.json` en `config.json` et de compléter les champs requis.
