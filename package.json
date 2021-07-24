@@ -6,5 +6,8 @@
   "repository": "https://github.com/Natchi59/DiscordBot-Template.git",
   "author": "Natchi <nathan.caron@natchi.fr>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
 }
