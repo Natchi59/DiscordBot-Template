@@ -7,7 +7,15 @@
   "author": "Natchi <nathan.caron@natchi.fr>",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index"
+  },
   "dependencies": {
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "mongoose": "^5.13.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
