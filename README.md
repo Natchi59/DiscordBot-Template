@@ -1,3 +1,7 @@
+# Sommaire
+- [Javascript](https://github.com/Natchi59/DiscordBot-Template/tree/JS)
+- [Typescript](https://github.com/Natchi59/DiscordBot-Template/tree/TS)
+
 # Template Bot Discord Javascript
 
 ## Présentation
